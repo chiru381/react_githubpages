@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chiru381.github.io/react_githubpages/static/css/main.e6c13ad2.css",
+    "main.js": "/chiru381.github.io/react_githubpages/static/js/main.0a422501.js",
+    "static/js/453.ac1f6e13.chunk.js": "/chiru381.github.io/react_githubpages/static/js/453.ac1f6e13.chunk.js",
+    "index.html": "/chiru381.github.io/react_githubpages/index.html",
+    "main.e6c13ad2.css.map": "/chiru381.github.io/react_githubpages/static/css/main.e6c13ad2.css.map",
+    "main.0a422501.js.map": "/chiru381.github.io/react_githubpages/static/js/main.0a422501.js.map",
+    "453.ac1f6e13.chunk.js.map": "/chiru381.github.io/react_githubpages/static/js/453.ac1f6e13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0a422501.js"
+  ]
+}
